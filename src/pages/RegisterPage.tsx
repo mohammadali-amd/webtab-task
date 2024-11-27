@@ -34,13 +34,11 @@ const RegisterPage = () => {
       }
 
       try {
-         const response = await axios.post(AUTH_REGISTER_URL, { email, password });
-         const { userToken } = response.data.data;
+         await axios.post(AUTH_REGISTER_URL, { email, password });
 
          setSuccess("Registration successful! Logging in...");
-         localStorage.setItem("token", userToken);
          dispatch(login({ email }));
-         navigate("/dashboard");
+         setTimeout(() => navigate("/login"), 1000);
       } catch (error) {
          console.error(error);
          if (axios.isAxiosError(error)) {
