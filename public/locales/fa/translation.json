@@ -1,0 +1,19 @@
+{
+   "header_title": "وب تب",
+   "welcome": "خوش آمدید!",
+   "logout": "خروج",
+   "bpmn_viewer": "نمایش‌دهنده BPMN",
+   "email": "ایمیل",
+   "password": "رمز عبور",
+   "confirm_password": "تایید رمز عبور",
+   "login": "ورود",
+   "register_msg": "حساب کاربری ندارید؟",
+   "register_here": "ثبت نام کنید",
+   "register": "ثبت نام",
+   "login_msg": "قبلا ثبت نام کردید؟",
+   "login_here": "وارد شوید",
+   "diagram": "BPMN دیاگرام",
+   "form": "فرم",
+   "loading": "در حال بارگزاری...",
+   "enterFileId": "شماره فایل مورد نظر را وارد کنید:"
+}

@@ -1,0 +1,19 @@
+{
+   "header_title": "WebTab Task",
+   "welcome": "Welcome!",
+   "logout": "Logout",
+   "bpmn_viewer": "BPMN Viewer",
+   "email": "Email",
+   "password": "Password",
+   "confirm_password": "Confirm Password",
+   "login": "Login",
+   "register_msg": "Don't have an account?",
+   "register_here": "Register here",
+   "register": "Register",
+   "login_msg": "Already have an account?",
+   "login_here": "Login here",
+   "diagram": "BPMN Diagram Viewer",
+   "form": "Form",
+   "loading": "Loading...",
+   "enterFileId": "Enter FileId:"
+}
